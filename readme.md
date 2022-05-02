@@ -1,6 +1,6 @@
 ### 
 
-![enter image description here](https://files.menudino.com/cardapios/23115/logo.png)
+![enter image description here](https://perfectdailygrind.com/pt/wp-content/uploads/sites/5/2021/11/WhatsApp-Image-2021-11-03-at-15.46.47-3-edited.jpeg)
 
 Página HTML + CSS + Bootstrap que demonstra de forma simples uma página de uma cafeteria fictícia
 
